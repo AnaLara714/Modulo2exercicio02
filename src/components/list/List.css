@@ -1,0 +1,13 @@
+.list{
+    overflow: auto;
+}
+
+ .item{
+    width:500px;
+    border: 1px solid;
+    background-color: rgb(177, 115, 235);
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
